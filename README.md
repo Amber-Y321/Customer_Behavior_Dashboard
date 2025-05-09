@@ -11,31 +11,7 @@
 > A **Streamlit** application that provides a full-stack analytics for LuxCouture - a Shopify-style E-commerce platform. Built with **Python** and **Streamlit**, it transforms retail and Shopify data into clear and efficient visualization dashboards,  empowering small businesses to optimize marketing strategies and boost popularity and sales.
 
 ---
-## 🚀 Quickstart
 
-Get up and running in **three steps**:
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Amber-Y321/dashboard.git
-   cd dashboard
-   ```
-2. **Install dependencies**
-   ```bash
-   python3 -m venv .venv       # create virtual environment
-   source .venv/bin/activate   # macOS/Linux
-   .venv\Scripts\Activate.ps1 # Windows PowerShell
-   pip install --upgrade pip
-   pip install -r requirements.txt
-   ```
-3. **Launch the app**
-   ```bash
-   streamlit run dashboard.py
-   ```
-
-⭐ *Tip:* Drop your CSVs in `./data/`  before launching.
-
----
 ## 🔑 Key Features
 > **Interactive Charts**: Hover for detailed deltas and explore daily or weekly performance shifts.
 
